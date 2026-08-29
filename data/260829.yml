@@ -1,0 +1,62 @@
+about:
+  description: A system-level, binary package and environment manager running on all major operating systems and platforms.
+  license: NOASSERTION
+  homepage: https://docs.conda.io/projects/conda/
+  head: 33bff3b
+  archived: false
+  latestVersion: 26.7.1
+  collectedAt: 2026-08-29T07:12:09Z
+timeline:
+  created: 2012-10-15
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-18
+popularity:
+  star: 7499
+  watcher: 179
+  fork: 2219
+  release: 196
+  contributor: 475
+  pullRequest: 1250
+  issue: 10725
+language:
+  Python: 4332428
+  Shell: 25561
+  Batchfile: 19851
+  PowerShell: 9847
+  Xonsh: 8292
+  HTML: 3686
+  Makefile: 3413
+totalLine: 4403078
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 62
+    openPR: 14
+    closedIssue: 27
+    openIssue: 25
+    commit: 95
+  last90d:
+    since: 2026-05-31
+    release: 4
+    mergedPR: 171
+    openPR: 39
+    closedIssue: 129
+    openIssue: 71
+    commit: 264
+  last180d:
+    since: 2026-03-02
+    release: 9
+    mergedPR: 357
+    openPR: 60
+    closedIssue: 248
+    openIssue: 122
+    commit: 529
+  last360d:
+    since: 2025-09-03
+    release: 15
+    mergedPR: 633
+    openPR: 92
+    closedIssue: 409
+    openIssue: 176
+    commit: 965
