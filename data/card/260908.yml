@@ -5,7 +5,7 @@ about:
   head: 3b9034f
   archived: false
   latestVersion: "26.7.2"
-  collectedAt: 2026-09-08T02:51:10Z
+  collectedAt: 2026-09-08T05:30:08Z
 timeline:
   created: 2012-10-15
   lastCommit: 2026-09-07
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-18
     release: 30
     mergedPR: 1029
-    openPR: 101
-    closedIssue: 800
-    openIssue: 242
+    openPR: 100
+    closedIssue: 801
+    openIssue: 241
     commit: 1050
 total:
   release: 197
   mergedPR: 4522
-  openPR: 118
-  closedIssue: 10200
-  openIssue: 546
+  openPR: 117
+  closedIssue: 10201
+  openIssue: 545
   commit: 18072
 ---
 path: /home/runner/.x-repo/github.com/conda/conda
-collectedAt: 2026-09-08T02:51:23Z
+collectedAt: 2026-09-08T05:30:56Z
 loc:
   Json:
     code: 2546923

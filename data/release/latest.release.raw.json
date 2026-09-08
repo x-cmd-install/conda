@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 25895686,
       "digest": "sha256:3b9ba0833a52a65960bfd9c40238f9700f673a70a540351b5c6312eedc97ab98",
-      "download_count": 161,
+      "download_count": 162,
       "created_at": "2026-09-04T13:36:17Z",
       "updated_at": "2026-09-04T13:36:18Z",
       "browser_download_url": "https://github.com/conda/conda/releases/download/26.7.2/conda-26.7.2.tar.gz"
