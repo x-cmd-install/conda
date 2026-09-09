@@ -2,94 +2,94 @@ about:
   description: "A system-level, binary package and environment manager running on all major operating systems and platforms."
   license: NOASSERTION
   homepage: https://docs.conda.io/projects/conda/
-  head: 8804861
+  head: 7d3e813
   archived: false
   latestVersion: "26.7.2"
   latestRelease: "26.7.2"
   latestPrerelease: "4.8.0rc0"
-  collectedAt: 2026-09-09T05:43:29Z
+  collectedAt: 2026-09-09T20:10:37Z
 timeline:
   created: 2012-10-15
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-04
   lastRelease: 2026-09-04
   lastPrerelease: 2019-11-04
 popularity:
-  star: 7504
+  star: 7505
   watcher: 180
   fork: 2219
   release: 197
   contributor: 476
-  pullRequest: 5786
-  issue: 10748
+  pullRequest: 5790
+  issue: 10749
 language:
-  Python: 4375758
+  Python: 4378867
   Shell: 25561
   Batchfile: 19851
   PowerShell: 9847
   Xonsh: 8292
   HTML: 3686
   Makefile: 3413
-totalBytes: 4446408
+totalBytes: 4449517
 recent:
   last30d:
     since: 2026-08-10
     release: 2
-    mergedPR: 61
-    openPR: 16
-    closedIssue: 32
-    openIssue: 27
-    commit: 83
+    mergedPR: 68
+    openPR: 13
+    closedIssue: 37
+    openIssue: 23
+    commit: 98
   last60d:
     since: 2026-07-11
     release: 3
-    mergedPR: 113
-    openPR: 26
-    closedIssue: 65
-    openIssue: 46
-    commit: 168
+    mergedPR: 120
+    openPR: 23
+    closedIssue: 70
+    openIssue: 42
+    commit: 183
   last90d:
     since: 2026-06-11
     release: 4
-    mergedPR: 176
-    openPR: 42
-    closedIssue: 121
-    openIssue: 70
-    commit: 266
+    mergedPR: 183
+    openPR: 39
+    closedIssue: 126
+    openIssue: 66
+    commit: 281
   last180d:
     since: 2026-03-13
     release: 10
-    mergedPR: 368
-    openPR: 64
-    closedIssue: 263
-    openIssue: 123
-    commit: 542
+    mergedPR: 375
+    openPR: 61
+    closedIssue: 268
+    openIssue: 119
+    commit: 557
   last360d:
     since: 2025-09-14
     release: 16
-    mergedPR: 622
-    openPR: 93
-    closedIssue: 423
-    openIssue: 176
-    commit: 933
+    mergedPR: 629
+    openPR: 90
+    closedIssue: 428
+    openIssue: 172
+    commit: 948
   last720d:
     since: 2024-09-19
     release: 30
-    mergedPR: 1036
-    openPR: 101
-    closedIssue: 806
-    openIssue: 237
-    commit: 1055
+    mergedPR: 1043
+    openPR: 98
+    closedIssue: 811
+    openIssue: 233
+    commit: 1062
 total:
   release: 197
-  mergedPR: 4529
-  openPR: 118
-  closedIssue: 10205
-  openIssue: 543
-  commit: 18077
+  mergedPR: 4536
+  openPR: 115
+  closedIssue: 10211
+  openIssue: 538
+  commit: 18084
 ---
 path: /home/runner/.x-repo/github.com/conda/conda
-collectedAt: 2026-09-09T05:43:42Z
+collectedAt: 2026-09-09T20:11:00Z
 loc:
   Json:
     code: 2546923
@@ -97,9 +97,9 @@ loc:
     blanks: 0
     files: 195
   Python:
-    code: 106921
+    code: 107021
     comments: 7121
-    blanks: 19357
+    blanks: 19377
     files: 455
   ReStructuredText:
     code: 12034
@@ -182,9 +182,9 @@ loc:
     blanks: 157
     files: 105
 total:
-  code: 2668917
+  code: 2669017
   comments: 18454
-  blanks: 28425
+  blanks: 28445
   files: 1022
 ---
 date: "2026-09-07"
