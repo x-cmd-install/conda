@@ -7,7 +7,7 @@ A system-level, binary package and environment manager running on all major oper
 - **Latest release**: `26.7.2` (2026-09-04)
 - **Last commit**: 2026-09-08
 - **License**: NOASSERTION
-- **Stars**: 7503 · **Forks**: 2220 · **Open issues**: 10747 · **Contributors**: 475
+- **Stars**: 7504 · **Forks**: 2219 · **Open issues**: 10748 · **Contributors**: 476
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/conda> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:53:44Z._
+_Last regenerated: 2026-09-09T05:43:46Z._
