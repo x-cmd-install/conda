@@ -7,7 +7,7 @@ about:
   latestVersion: "26.7.2"
   latestRelease: "26.7.2"
   latestPrerelease: "4.8.0rc0"
-  collectedAt: 2026-09-10T21:43:09Z
+  collectedAt: 2026-09-10T22:06:41Z
 timeline:
   created: 2012-10-15
   lastCommit: 2026-09-10
@@ -89,7 +89,7 @@ total:
   commit: 18090
 ---
 path: /home/runner/.x-repo/github.com/conda/conda
-collectedAt: 2026-09-10T21:43:24Z
+collectedAt: 2026-09-10T22:06:51Z
 loc:
   Json:
     code: 2546923
