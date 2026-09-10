@@ -7,7 +7,7 @@ about:
   latestVersion: "26.7.2"
   latestRelease: "26.7.2"
   latestPrerelease: "4.8.0rc0"
-  collectedAt: 2026-09-10T17:43:08Z
+  collectedAt: 2026-09-10T21:43:09Z
 timeline:
   created: 2012-10-15
   lastCommit: 2026-09-10
@@ -21,7 +21,7 @@ popularity:
   release: 197
   contributor: 476
   pullRequest: 5792
-  issue: 10749
+  issue: 10750
 language:
   Python: 4406075
   Shell: 25561
@@ -38,7 +38,7 @@ recent:
     mergedPR: 71
     openPR: 9
     closedIssue: 37
-    openIssue: 21
+    openIssue: 22
     commit: 112
   last60d:
     since: 2026-07-12
@@ -46,7 +46,7 @@ recent:
     mergedPR: 124
     openPR: 20
     closedIssue: 72
-    openIssue: 39
+    openIssue: 40
     commit: 197
   last90d:
     since: 2026-06-12
@@ -54,7 +54,7 @@ recent:
     mergedPR: 187
     openPR: 35
     closedIssue: 128
-    openIssue: 63
+    openIssue: 64
     commit: 295
   last180d:
     since: 2026-03-14
@@ -62,7 +62,7 @@ recent:
     mergedPR: 381
     openPR: 57
     closedIssue: 271
-    openIssue: 116
+    openIssue: 117
     commit: 571
   last360d:
     since: 2025-09-15
@@ -70,7 +70,7 @@ recent:
     mergedPR: 626
     openPR: 86
     closedIssue: 430
-    openIssue: 169
+    openIssue: 170
     commit: 962
   last720d:
     since: 2024-09-20
@@ -78,18 +78,18 @@ recent:
     mergedPR: 1047
     openPR: 94
     closedIssue: 814
-    openIssue: 230
+    openIssue: 231
     commit: 1068
 total:
   release: 197
   mergedPR: 4542
   openPR: 111
   closedIssue: 10214
-  openIssue: 535
+  openIssue: 536
   commit: 18090
 ---
 path: /home/runner/.x-repo/github.com/conda/conda
-collectedAt: 2026-09-10T17:43:36Z
+collectedAt: 2026-09-10T21:43:24Z
 loc:
   Json:
     code: 2546923
