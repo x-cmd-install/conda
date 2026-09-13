@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,506 · **Forks**: 2,219 · **Open issues**: 10,751 · **Contributors**: 476
+- **Stars**: 7,507 · **Forks**: 2,219 · **Open issues**: 10,751 · **Contributors**: 476
 
 ## Totals (cumulative)
 
-- **Releases**: 197 · **Merged PRs**: 4543 · **Open PRs**: 111 · **Closed issues**: 10215 · **Open issues**: 536 · **Commits**: 18091
+- **Releases**: 197 · **Merged PRs**: 4543 · **Open PRs**: 113 · **Closed issues**: 10215 · **Open issues**: 536 · **Commits**: 18091
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 61 | 9 | 29 | 20 | 114 |
-| last60d | 2026-07-14 | 3 | 123 | 20 | 70 | 33 | 199 |
-| 90d | 2026-06-14 | 4 | 186 | 35 | 126 | 65 | 297 |
-| last180d | 2026-03-16 | 10 | 379 | 57 | 271 | 118 | 573 |
-| 360d | 2025-09-17 | 16 | 621 | 85 | 427 | 171 | 964 |
-| last720d | 2024-09-22 | 30 | 1047 | 94 | 813 | 231 | 1065 |
+| 30d | 2026-08-14 | 2 | 61 | 11 | 26 | 20 | 97 |
+| last60d | 2026-07-15 | 3 | 123 | 22 | 70 | 32 | 178 |
+| 90d | 2026-06-15 | 4 | 185 | 37 | 121 | 65 | 281 |
+| last180d | 2026-03-17 | 10 | 378 | 59 | 269 | 118 | 556 |
+| 360d | 2025-09-18 | 16 | 619 | 87 | 426 | 171 | 945 |
+| last720d | 2024-09-23 | 30 | 1045 | 96 | 810 | 231 | 1065 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for conda lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:34:53Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:44:27Z._
