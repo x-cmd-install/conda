@@ -4,7 +4,7 @@
 
 A system-level, binary package and environment manager running on all major operating systems and platforms.
 
-[![x-cmd/install — conda Code Quality Monitoring Repo Card](https://repo.x-cmd.io/conda.svg?lang=zh)](https://x-cmd.com/install/conda)
+[![x-cmd/install — conda Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/conda.svg?lang=zh)](https://x-cmd.com/install/conda)
 
 ## 安装
 
@@ -14,12 +14,12 @@ x install conda
 
 ## 代码洞察
 
-合计: **2,670,572** 行代码（覆盖前 5 种语言、共 **856** 个文件）。
+合计: **2,670,783** 行代码（覆盖前 5 种语言、共 **856** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 2,547,298 | 0 | 0 | 195 |
-| Python | 108,558 | 7,164 | 19,600 | 458 |
+| Python | 108,769 | 7,170 | 19,633 | 458 |
 | ReStructuredText | 12,219 | 0 | 5,205 | 126 |
 | Yaml | 568 | 40 | 86 | 60 |
 | Batch | 442 | 108 | 71 | 17 |
@@ -43,27 +43,27 @@ x install conda
 ## 发布
 
 - **最新版本**: `26.7.2` (2026-09-04)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 7,509 · **Fork**: 2,225 · **开放 issue**: 10,777 · **贡献者**: 477
+- **Star**: 7,513 · **Fork**: 2,226 · **开放 issue**: 10,780 · **贡献者**: 477
 
 ## 累计统计
 
-- **发布数**: 197 · **已合并 PR**: 4573 · **开放 PR**: 116 · **已关闭 issue**: 10236 · **开放 issue**: 541 · **提交数**: 18121
+- **发布数**: 197 · **已合并 PR**: 4577 · **开放 PR**: 116 · **已关闭 issue**: 10239 · **开放 issue**: 541 · **提交数**: 18125
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 66 | 14 | 33 | 31 | 118 |
-| last60d | 2026-07-24 | 3 | 137 | 23 | 73 | 42 | 215 |
-| 90d | 2026-06-24 | 3 | 196 | 39 | 118 | 73 | 304 |
-| last180d | 2026-03-26 | 10 | 390 | 60 | 278 | 123 | 585 |
-| 360d | 2025-09-27 | 16 | 636 | 88 | 436 | 178 | 972 |
-| last720d | 2024-10-02 | 28 | 1059 | 99 | 824 | 234 | 1078 |
+| 30d | 2026-08-24 | 1 | 67 | 14 | 34 | 30 | 124 |
+| last60d | 2026-07-25 | 3 | 140 | 23 | 76 | 42 | 221 |
+| 90d | 2026-06-25 | 3 | 198 | 39 | 119 | 73 | 310 |
+| last180d | 2026-03-27 | 10 | 394 | 60 | 280 | 123 | 591 |
+| 360d | 2025-09-28 | 16 | 639 | 88 | 439 | 178 | 978 |
+| last720d | 2024-10-03 | 28 | 1063 | 99 | 826 | 234 | 1080 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ conda 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:54:15Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:58:24Z._
