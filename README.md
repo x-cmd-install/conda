@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `26.9.1` (2026-10-02)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-07
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 7,524 · **Forks**: 2,235 · **Open issues**: 10,808 · **Contributors**: 478
+- **Stars**: 7,527 · **Forks**: 2,237 · **Open issues**: 10,810 · **Contributors**: 478
 
 ## Totals (cumulative)
 
-- **Releases**: 200 · **Merged PRs**: 4616 · **Open PRs**: 120 · **Closed issues**: 10273 · **Open issues**: 535 · **Commits**: 18167
+- **Releases**: 200 · **Merged PRs**: 4619 · **Open PRs**: 120 · **Closed issues**: 10275 · **Open issues**: 535 · **Commits**: 18173
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 3 | 80 | 20 | 37 | 27 | 104 |
-| last60d | 2026-08-08 | 5 | 148 | 24 | 84 | 40 | 234 |
-| 90d | 2026-07-09 | 6 | 201 | 33 | 121 | 55 | 310 |
-| last180d | 2026-04-10 | 11 | 388 | 64 | 287 | 115 | 590 |
-| 360d | 2025-10-12 | 17 | 660 | 91 | 455 | 172 | 1009 |
-| last720d | 2024-10-17 | 30 | 1089 | 103 | 846 | 229 | 1111 |
+| 30d | 2026-09-08 | 3 | 76 | 20 | 36 | 28 | 109 |
+| last60d | 2026-08-09 | 5 | 150 | 24 | 86 | 40 | 239 |
+| 90d | 2026-07-10 | 6 | 201 | 32 | 121 | 54 | 315 |
+| last180d | 2026-04-11 | 10 | 390 | 64 | 289 | 115 | 595 |
+| 360d | 2025-10-13 | 17 | 659 | 91 | 455 | 172 | 1014 |
+| last720d | 2024-10-18 | 30 | 1090 | 103 | 846 | 229 | 1114 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for conda lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:41:03Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:48:48Z._
