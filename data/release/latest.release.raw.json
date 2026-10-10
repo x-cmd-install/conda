@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 25964915,
       "digest": "sha256:51656666e11d98fc1e52d8378564909cc4201828760ae6cea6373e7186361c1b",
-      "download_count": 84,
+      "download_count": 113,
       "created_at": "2026-10-08T19:19:21Z",
       "updated_at": "2026-10-08T19:19:23Z",
       "browser_download_url": "https://github.com/conda/conda/releases/download/26.9.2/conda-26.9.2.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:985fced7f5651f7b12db164b69905b5e52e63fd19943ca8770754480dd36a704",
-      "download_count": 6,
+      "download_count": 11,
       "created_at": "2026-10-08T19:19:21Z",
       "updated_at": "2026-10-08T19:19:22Z",
       "browser_download_url": "https://github.com/conda/conda/releases/download/26.9.2/conda-26.9.2.tar.gz.sha256sum"
