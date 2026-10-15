@@ -42,35 +42,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `26.9.2` (2026-10-08)
-- **Last commit**: 2026-10-13
+- **Latest**: `26.9.3` (2026-10-14)
+- **Last commit**: 2026-10-14
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 7,533 · **Forks**: 2,240 · **Open issues**: 10,822 · **Contributors**: 479
+- **Stars**: 7,533 · **Forks**: 2,241 · **Open issues**: 10,826 · **Contributors**: 480
 
 ## Totals (cumulative)
 
-- **Releases**: 201 · **Merged PRs**: 4635 · **Open PRs**: 116 · **Closed issues**: 10283 · **Open issues**: 539 · **Commits**: 18190
+- **Releases**: 202 · **Merged PRs**: 4639 · **Open PRs**: 118 · **Closed issues**: 10285 · **Open issues**: 541 · **Commits**: 18192
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 4 | 76 | 19 | 33 | 33 | 96 |
-| last60d | 2026-08-15 | 6 | 149 | 20 | 76 | 43 | 233 |
-| 90d | 2026-07-16 | 7 | 211 | 31 | 122 | 52 | 326 |
-| last180d | 2026-04-17 | 11 | 396 | 60 | 287 | 115 | 603 |
-| 360d | 2025-10-19 | 18 | 669 | 89 | 455 | 176 | 1021 |
-| last720d | 2024-10-24 | 31 | 1102 | 99 | 848 | 233 | 1128 |
+| 30d | 2026-09-15 | 5 | 74 | 21 | 32 | 36 | 98 |
+| last60d | 2026-08-16 | 7 | 152 | 22 | 76 | 46 | 235 |
+| 90d | 2026-07-17 | 8 | 214 | 33 | 121 | 55 | 328 |
+| last180d | 2026-04-18 | 12 | 399 | 62 | 288 | 118 | 605 |
+| 360d | 2025-10-20 | 19 | 670 | 91 | 455 | 178 | 1023 |
+| last720d | 2024-10-25 | 32 | 1106 | 101 | 849 | 235 | 1130 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [conda-26.9.2.tar.gz](https://github.com/conda/conda/releases/download/26.9.2/conda-26.9.2.tar.gz) | 24.8 MiB | `native/unknown` |
-| [conda-26.9.2.tar.gz.sha256sum](https://github.com/conda/conda/releases/download/26.9.2/conda-26.9.2.tar.gz.sha256sum) | 65 B | `other` |
+| [conda-26.9.3.tar.gz](https://github.com/conda/conda/releases/download/26.9.3/conda-26.9.3.tar.gz) | 24.8 MiB | `native/unknown` |
+| [conda-26.9.3.tar.gz.sha256sum](https://github.com/conda/conda/releases/download/26.9.3/conda-26.9.3.tar.gz.sha256sum) | 65 B | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for conda lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:40:58Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:20:23Z._

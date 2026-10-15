@@ -42,35 +42,35 @@ x install conda
 
 ## 发布
 
-- **最新版本**: `26.9.2` (2026-10-08)
-- **最近提交**: 2026-10-13
+- **最新版本**: `26.9.3` (2026-10-14)
+- **最近提交**: 2026-10-14
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 7,533 · **Fork**: 2,240 · **开放 issue**: 10,822 · **贡献者**: 479
+- **Star**: 7,533 · **Fork**: 2,241 · **开放 issue**: 10,826 · **贡献者**: 480
 
 ## 累计统计
 
-- **发布数**: 201 · **已合并 PR**: 4635 · **开放 PR**: 116 · **已关闭 issue**: 10283 · **开放 issue**: 539 · **提交数**: 18190
+- **发布数**: 202 · **已合并 PR**: 4639 · **开放 PR**: 118 · **已关闭 issue**: 10285 · **开放 issue**: 541 · **提交数**: 18192
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 4 | 76 | 19 | 33 | 33 | 96 |
-| last60d | 2026-08-15 | 6 | 149 | 20 | 76 | 43 | 233 |
-| 90d | 2026-07-16 | 7 | 211 | 31 | 122 | 52 | 326 |
-| last180d | 2026-04-17 | 11 | 396 | 60 | 287 | 115 | 603 |
-| 360d | 2025-10-19 | 18 | 669 | 89 | 455 | 176 | 1021 |
-| last720d | 2024-10-24 | 31 | 1102 | 99 | 848 | 233 | 1128 |
+| 30d | 2026-09-15 | 5 | 74 | 21 | 32 | 36 | 98 |
+| last60d | 2026-08-16 | 7 | 152 | 22 | 76 | 46 | 235 |
+| 90d | 2026-07-17 | 8 | 214 | 33 | 121 | 55 | 328 |
+| last180d | 2026-04-18 | 12 | 399 | 62 | 288 | 118 | 605 |
+| 360d | 2025-10-20 | 19 | 670 | 91 | 455 | 178 | 1023 |
+| last720d | 2024-10-25 | 32 | 1106 | 101 | 849 | 235 | 1130 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [conda-26.9.2.tar.gz](https://github.com/conda/conda/releases/download/26.9.2/conda-26.9.2.tar.gz) | 24.8 MiB | `native/unknown` |
-| [conda-26.9.2.tar.gz.sha256sum](https://github.com/conda/conda/releases/download/26.9.2/conda-26.9.2.tar.gz.sha256sum) | 65 B | `other` |
+| [conda-26.9.3.tar.gz](https://github.com/conda/conda/releases/download/26.9.3/conda-26.9.3.tar.gz) | 24.8 MiB | `native/unknown` |
+| [conda-26.9.3.tar.gz.sha256sum](https://github.com/conda/conda/releases/download/26.9.3/conda-26.9.3.tar.gz.sha256sum) | 65 B | `other` |
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ conda 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T05:40:59Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T05:20:24Z._
