@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `26.9.4` (2026-10-21)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 7,538 · **Forks**: 2,246 · **Open issues**: 10,842 · **Contributors**: 480
+- **Stars**: 7,539 · **Forks**: 2,246 · **Open issues**: 10,843 · **Contributors**: 480
 
 ## Totals (cumulative)
 
-- **Releases**: 203 · **Merged PRs**: 4655 · **Open PRs**: 116 · **Closed issues**: 10313 · **Open issues**: 529 · **Commits**: 18209
+- **Releases**: 203 · **Merged PRs**: 4656 · **Open PRs**: 118 · **Closed issues**: 10314 · **Open issues**: 529 · **Commits**: 18210
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 6 | 66 | 12 | 37 | 26 | 96 |
-| last60d | 2026-08-24 | 7 | 143 | 21 | 88 | 41 | 240 |
-| 90d | 2026-07-25 | 9 | 216 | 30 | 131 | 52 | 334 |
-| last180d | 2026-04-26 | 13 | 398 | 59 | 296 | 110 | 614 |
-| 360d | 2025-10-28 | 20 | 676 | 89 | 468 | 174 | 1038 |
-| last720d | 2024-11-02 | 33 | 1115 | 99 | 860 | 227 | 1139 |
+| 30d | 2026-09-24 | 6 | 66 | 14 | 37 | 26 | 97 |
+| last60d | 2026-08-25 | 7 | 144 | 23 | 87 | 40 | 241 |
+| 90d | 2026-07-26 | 9 | 216 | 32 | 132 | 52 | 335 |
+| last180d | 2026-04-27 | 13 | 393 | 60 | 296 | 109 | 615 |
+| 360d | 2025-10-29 | 20 | 677 | 91 | 467 | 174 | 1039 |
+| last720d | 2024-11-03 | 33 | 1115 | 101 | 861 | 227 | 1140 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for conda lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:28:08Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:22:11Z._
