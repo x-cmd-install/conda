@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,546 · **Forks**: 2,249 · **Open issues**: 10,851 · **Contributors**: 480
+- **Stars**: 7,547 · **Forks**: 2,249 · **Open issues**: 10,852 · **Contributors**: 480
 
 ## Totals (cumulative)
 
-- **Releases**: 203 · **Merged PRs**: 4676 · **Open PRs**: 112 · **Closed issues**: 10323 · **Open issues**: 528 · **Commits**: 18228
+- **Releases**: 203 · **Merged PRs**: 4676 · **Open PRs**: 115 · **Closed issues**: 10324 · **Open issues**: 528 · **Commits**: 18228
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 5 | 65 | 12 | 25 | 28 | 82 |
-| last60d | 2026-08-31 | 7 | 156 | 21 | 82 | 42 | 239 |
-| 90d | 2026-08-01 | 8 | 218 | 27 | 127 | 53 | 341 |
-| last180d | 2026-05-03 | 13 | 402 | 53 | 292 | 110 | 621 |
-| 360d | 2025-11-04 | 20 | 690 | 88 | 467 | 176 | 1048 |
-| last720d | 2024-11-09 | 33 | 1129 | 96 | 867 | 226 | 1150 |
+| 30d | 2026-10-01 | 5 | 61 | 15 | 24 | 28 | 82 |
+| last60d | 2026-09-01 | 7 | 153 | 24 | 82 | 43 | 239 |
+| 90d | 2026-08-02 | 8 | 217 | 30 | 127 | 54 | 341 |
+| last180d | 2026-05-04 | 13 | 400 | 56 | 286 | 110 | 621 |
+| 360d | 2025-11-05 | 20 | 690 | 90 | 465 | 175 | 1048 |
+| last720d | 2024-11-10 | 33 | 1128 | 99 | 868 | 226 | 1150 |
 
 ## Release assets
 
@@ -74,12 +74,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/conda). **2** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/conda). **4** are ✅ on the latest upstream release, **26** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Fedora rawhide | `26.9.4` | ✅ latest |
-| Nix unstable | `26.5.2` | ⚠️ outdated |
+| Nix unstable | `26.9.4` | ✅ latest |
 
 ## Improve this data
 
@@ -90,4 +90,4 @@ Install metadata for conda lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:32:15Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:31:29Z._
