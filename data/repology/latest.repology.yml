@@ -1,3 +1,32 @@
+- repo: nix_stable_24_11
+  srcname: python311Packages.conda
+  visiblename: python3.11-conda
+  version: 24.7.1
+  origversion: null
+  status: outdated
+  summary: OS-agnostic, system-level binary package manager
+  maintainers:
+    - eric@ericyen.com
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - python311Packages
+- repo: fedora_41
+  subrepo: release
+  srcname: conda
+  binnames:
+    - conda
+    - conda-tests
+    - python3-conda
+  visiblename: conda
+  version: 24.7.1
+  origversion: 24.7.1-1.fc41
+  status: legacy
+  summary: Cross-platform, Python-agnostic binary package manager
+  licenses:
+    - BSD-3-Clause AND Apache-2.0
+  categories:
+    - Unspecified
 - repo: aur
   srcname: python-conda
   binname: python-conda
@@ -105,22 +134,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: updates
-  srcname: conda
-  binnames:
-    - conda
-    - conda-tests
-    - python3-conda
-  visiblename: conda
-  version: 24.4.0
-  origversion: 24.4.0-1.fc40
-  status: outdated
-  summary: Cross-platform, Python-agnostic binary package manager
-  licenses:
-    - BSD-3-Clause AND Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: release
   srcname: conda
   binnames:
@@ -136,17 +149,17 @@
     - BSD-3-Clause AND Apache-2.0
   categories:
     - Unspecified
-- repo: fedora_41
-  subrepo: release
+- repo: fedora_40
+  subrepo: updates
   srcname: conda
   binnames:
     - conda
     - conda-tests
     - python3-conda
   visiblename: conda
-  version: 24.7.1
-  origversion: 24.7.1-1.fc41
-  status: legacy
+  version: 24.4.0
+  origversion: 24.4.0-1.fc40
+  status: outdated
   summary: Cross-platform, Python-agnostic binary package manager
   licenses:
     - BSD-3-Clause AND Apache-2.0
@@ -242,7 +255,7 @@
   visiblename: conda
   version: 26.9.4
   origversion: 26.9.4-2.fc46
-  status: newest
+  status: outdated
   summary: Cross-platform, Python-agnostic binary package manager
   licenses:
     - BSD-3-Clause AND Apache-2.0
@@ -272,21 +285,6 @@
   categories:
     - Development/Python
 - repo: mageia_10
-  subrepo: core/release
-  srcname: conda
-  binnames:
-    - conda
-    - python3-conda
-  visiblename: conda
-  version: 24.1.2
-  origversion: 24.1.2-3.mga10
-  status: legacy
-  summary: Cross-platform, Python-agnostic binary package manager
-  licenses:
-    - BSD and ASL 2.0 and LGPLv2+ and MIT
-  categories:
-    - Development/Python
-- repo: mageia_10
   subrepo: core/updates
   srcname: conda
   binnames:
@@ -296,6 +294,21 @@
   version: 26.5.3
   origversion: 26.5.3-1.mga10
   status: outdated
+  summary: Cross-platform, Python-agnostic binary package manager
+  licenses:
+    - BSD and ASL 2.0 and LGPLv2+ and MIT
+  categories:
+    - Development/Python
+- repo: mageia_10
+  subrepo: core/release
+  srcname: conda
+  binnames:
+    - conda
+    - python3-conda
+  visiblename: conda
+  version: 24.1.2
+  origversion: 24.1.2-3.mga10
+  status: legacy
   summary: Cross-platform, Python-agnostic binary package manager
   licenses:
     - BSD and ASL 2.0 and LGPLv2+ and MIT
@@ -355,19 +368,6 @@
     - BSD-3-Clause
   categories:
     - python312Packages
-- repo: nix_stable_24_11
-  srcname: python311Packages.conda
-  visiblename: python3.11-conda
-  version: 24.7.1
-  origversion: null
-  status: outdated
-  summary: OS-agnostic, system-level binary package manager
-  maintainers:
-    - eric@ericyen.com
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - python311Packages
 - repo: nix_stable_25_05
   srcname: python312Packages.conda
   visiblename: python3.12-conda
@@ -421,7 +421,7 @@
   categories:
     - python313Packages
 - repo: nix_stable_26_05
-  srcname: python314Packages.conda
+  srcname: python313Packages.conda
   visiblename: conda
   version: 26.5.0
   origversion: null
@@ -432,11 +432,24 @@
   licenses:
     - BSD-3-Clause
   categories:
-    - python314Packages
+    - python313Packages
 - repo: nix_stable_26_05
-  srcname: python313Packages.conda
+  srcname: python314Packages.conda
   visiblename: conda
   version: 26.5.0
+  origversion: null
+  status: outdated
+  summary: OS-agnostic, system-level binary package manager
+  maintainers:
+    - eric@ericyen.com
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - python314Packages
+- repo: nix_unstable
+  srcname: python313Packages.conda
+  visiblename: conda
+  version: 26.9.4
   origversion: null
   status: outdated
   summary: OS-agnostic, system-level binary package manager
@@ -451,7 +464,7 @@
   visiblename: conda
   version: 26.9.4
   origversion: null
-  status: newest
+  status: outdated
   summary: OS-agnostic, system-level binary package manager
   maintainers:
     - eric@ericyen.com
@@ -459,19 +472,6 @@
     - BSD-3-Clause
   categories:
     - python314Packages
-- repo: nix_unstable
-  srcname: python313Packages.conda
-  visiblename: conda
-  version: 26.9.4
-  origversion: null
-  status: newest
-  summary: OS-agnostic, system-level binary package manager
-  maintainers:
-    - eric@ericyen.com
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - python313Packages
 - repo: pypi
   srcname: conda
   binname: conda
@@ -485,7 +485,7 @@
 - repo: wikidata
   srcname: Q22907431
   visiblename: Conda
-  version: 26.9.4
+  version: 26.10.0
   origversion: null
   status: newest
   summary: package manager and environment management system
