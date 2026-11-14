@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `26.10.0` (2026-11-06)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-13
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 7,557 · **Forks**: 2,263 · **Open issues**: 10,876 · **Contributors**: 483
+- **Stars**: 7,557 · **Forks**: 2,263 · **Open issues**: 10,877 · **Contributors**: 485
 
 ## Totals (cumulative)
 
-- **Releases**: 204 · **Merged PRs**: 4705 · **Open PRs**: 116 · **Closed issues**: 10365 · **Open issues**: 511 · **Commits**: 18260
+- **Releases**: 204 · **Merged PRs**: 4707 · **Open PRs**: 114 · **Closed issues**: 10371 · **Open issues**: 506 · **Commits**: 18262
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 3 | 52 | 20 | 35 | 17 | 89 |
-| last60d | 2026-09-14 | 7 | 143 | 29 | 88 | 33 | 215 |
-| 90d | 2026-08-15 | 9 | 216 | 30 | 134 | 40 | 341 |
-| last180d | 2026-05-17 | 13 | 385 | 55 | 289 | 88 | 588 |
-| 360d | 2025-11-18 | 21 | 702 | 89 | 485 | 166 | 1064 |
-| last720d | 2024-11-23 | 33 | 1144 | 99 | 896 | 209 | 1168 |
+| 30d | 2026-10-15 | 2 | 54 | 18 | 36 | 15 | 91 |
+| last60d | 2026-09-15 | 7 | 139 | 27 | 89 | 31 | 217 |
+| 90d | 2026-08-16 | 9 | 217 | 28 | 136 | 38 | 343 |
+| last180d | 2026-05-18 | 13 | 386 | 53 | 290 | 84 | 590 |
+| 360d | 2025-11-19 | 21 | 704 | 87 | 487 | 164 | 1066 |
+| last720d | 2024-11-24 | 33 | 1145 | 97 | 901 | 204 | 1170 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for conda lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:54:00Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:33:03Z._
