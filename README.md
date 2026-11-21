@@ -14,13 +14,13 @@ x install conda
 
 ## Code insight
 
-Total: **2,682,685** lines of code across **870** files in the top 5 languages.
+Total: **2,682,718** lines of code across **870** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 2,551,343 | 0 | 0 | 195 |
 | Python | 115,919 | 7,284 | 20,748 | 468 |
-| ReStructuredText | 12,620 | 0 | 5,379 | 128 |
+| ReStructuredText | 12,653 | 0 | 5,394 | 128 |
 | Yaml | 645 | 55 | 90 | 62 |
 | Batch | 447 | 108 | 72 | 17 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `26.10.0` (2026-11-06)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 7,562 · **Forks**: 2,263 · **Open issues**: 10,891 · **Contributors**: 485
+- **Stars**: 7,561 · **Forks**: 2,263 · **Open issues**: 10,892 · **Contributors**: 485
 
 ## Totals (cumulative)
 
-- **Releases**: 204 · **Merged PRs**: 4719 · **Open PRs**: 113 · **Closed issues**: 10384 · **Open issues**: 507 · **Commits**: 18274
+- **Releases**: 204 · **Merged PRs**: 4720 · **Open PRs**: 112 · **Closed issues**: 10384 · **Open issues**: 508 · **Commits**: 18275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 57 | 13 | 36 | 17 | 81 |
-| last60d | 2026-09-21 | 7 | 136 | 18 | 88 | 28 | 188 |
-| 90d | 2026-08-22 | 8 | 208 | 26 | 142 | 39 | 331 |
-| last180d | 2026-05-24 | 13 | 390 | 51 | 290 | 85 | 592 |
-| 360d | 2025-11-25 | 20 | 702 | 85 | 491 | 167 | 1068 |
-| last720d | 2024-11-30 | 33 | 1154 | 96 | 907 | 207 | 1177 |
+| 30d | 2026-10-22 | 1 | 55 | 12 | 33 | 17 | 82 |
+| last60d | 2026-09-22 | 7 | 133 | 17 | 86 | 28 | 189 |
+| 90d | 2026-08-23 | 8 | 208 | 25 | 142 | 40 | 332 |
+| last180d | 2026-05-25 | 13 | 391 | 50 | 289 | 86 | 593 |
+| 360d | 2025-11-26 | 20 | 703 | 83 | 490 | 166 | 1069 |
+| last720d | 2024-12-01 | 33 | 1153 | 95 | 906 | 208 | 1178 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for conda lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:18:22Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:48:42Z._
