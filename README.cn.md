@@ -31,8 +31,8 @@ x install conda
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install conda
 
 ## 流行度
 
-- **Star**: 7,560 · **Fork**: 2,264 · **开放 issue**: 10,896 · **贡献者**: 485
+- **Star**: 7,561 · **Fork**: 2,264 · **开放 issue**: 10,899 · **贡献者**: 484
 
 ## 累计统计
 
-- **发布数**: 204 · **已合并 PR**: 4723 · **开放 PR**: 118 · **已关闭 issue**: 10385 · **开放 issue**: 511 · **提交数**: 18278
+- **发布数**: 204 · **已合并 PR**: 4723 · **开放 PR**: 117 · **已关闭 issue**: 10386 · **开放 issue**: 513 · **提交数**: 18278
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 55 | 17 | 31 | 20 | 61 |
-| last60d | 2026-09-25 | 7 | 124 | 23 | 81 | 31 | 155 |
-| 90d | 2026-08-26 | 8 | 208 | 31 | 136 | 42 | 316 |
-| last180d | 2026-05-28 | 12 | 390 | 56 | 287 | 89 | 571 |
-| 360d | 2025-11-29 | 20 | 703 | 89 | 487 | 169 | 1062 |
-| last720d | 2024-12-04 | 33 | 1155 | 101 | 906 | 210 | 1176 |
+| 30d | 2026-10-26 | 1 | 51 | 16 | 29 | 22 | 61 |
+| last60d | 2026-09-26 | 7 | 124 | 22 | 81 | 33 | 155 |
+| 90d | 2026-08-27 | 8 | 208 | 30 | 136 | 44 | 316 |
+| last180d | 2026-05-29 | 12 | 389 | 55 | 287 | 91 | 571 |
+| 360d | 2025-11-30 | 20 | 702 | 88 | 487 | 171 | 1062 |
+| last720d | 2024-12-05 | 33 | 1153 | 100 | 906 | 211 | 1176 |
 
 ## Release 资产
 
@@ -71,15 +71,6 @@ x install conda
 |------|-----:|----------|
 | [conda-26.10.0.tar.gz](https://github.com/conda/conda/releases/download/26.10.0/conda-26.10.0.tar.gz) | 24.8 MiB | `native/unknown` |
 | [conda-26.10.0.tar.gz.sha256sum](https://github.com/conda/conda/releases/download/26.10.0/conda-26.10.0.tar.gz.sha256sum) | 65 B | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/conda) 上共有 **36** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**29** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Fedora rawhide | `26.9.4` | ⚠️ outdated |
-| Nix unstable | `26.9.4` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -90,4 +81,4 @@ conda 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:15:51Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:08:50Z._
